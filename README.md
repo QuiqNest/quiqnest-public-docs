@@ -13,7 +13,7 @@ If you are new, read these in order:
 1. [What is **Clear-Title Solar™**](./clear-title-solar.md)
 2. [What is a Solar-Ready Home™](./solar-ready-home.md)
 3. [How BrightNest Mortgage™ turns sunshine into equity](./brightnest-mortgage.md)
-4. Why **UCC-1 liens** break real estate transactions
+4. [Why UCC-1 liens break real estate transactions](./ucc-1-liens.md)
 
 Canonical website:  
 https://quiqnest.com
