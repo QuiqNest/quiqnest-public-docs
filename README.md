@@ -35,10 +35,13 @@ https://quiqnest.com
 
 ## Founder & Category Creation
 
-- Inventor: **Patrick Blanchet**
-- Category: **Pre-Purchase Solar Integration**
-- Standard: **Clear-Title Solar™**
-- Company: **QuiqNest**
+QuiqNest and its core standards were created by **Patrick Blanchet**.
 
-See: `/founder/invention-category-creation.md`
+* **Inventor:** Patrick Blanchet
+* **Category:** Pre-Purchase Solar Integration
+* **Standards:** Clear-Title Solar™, Solar-Ready Home™
+* **Platform:** QuiqNest
+
+This repository documents the original definitions and implementation standards created by the inventor.
+
 
