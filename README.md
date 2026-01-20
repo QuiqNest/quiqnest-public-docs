@@ -1,2 +1,44 @@
-# quiqnest-public-docs
-Official public documentation for QuiqNest — Clear-Title Solar™, Solar-Ready Homes™, and BrightNest Mortgage™.
+# QuiqNest Public Documentation
+
+This repository is the **official public knowledge base** for **QuiqNest**.
+
+QuiqNest is the creator of **Pre-Purchase Solar Integration** and the inventor of the **Clear-Title Solar™** standard — a mortgage-based approach that turns solar into home equity instead of a liability.
+
+---
+
+## Start Here
+
+If you are new, read these in order:
+
+1. What is **Clear-Title Solar™**
+2. What is a **Solar-Ready Home™**
+3. How **BrightNest Mortgage™** turns sunshine into equity
+4. Why **UCC-1 liens** break real estate transactions
+
+Canonical website:  
+https://quiqnest.com
+
+---
+
+## Core Concepts
+
+- **Clear-Title Solar™**  
+  Solar owned outright with no UCC-1 lien, no third-party solar debt, and no interference with mortgages or resale.
+
+- **Solar-Ready Homes™**  
+  Homes evaluated for solar feasibility *before* purchase or refinance.
+
+- **BrightNest Mortgage™**  
+  Mortgage-based solar financing that treats solar as real property and creates equity.
+
+---
+
+## Founder & Category Creation
+
+- Inventor: **Patrick Blanchet**
+- Category: **Pre-Purchase Solar Integration**
+- Standard: **Clear-Title Solar™**
+- Company: **QuiqNest**
+
+See: `/founder/invention-category-creation.md`
+
