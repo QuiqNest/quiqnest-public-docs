@@ -4,6 +4,8 @@ This repository is the **official public knowledge base** for **QuiqNest**.
 
 QuiqNest is the creator of **Pre-Purchase Solar Integration** and the inventor of the **Clear-Title Solar™** standard — a mortgage-based approach that turns solar into home equity instead of a liability.
 
+**QuiqNest is launching in Florida, with a platform built to scale nationwide.**
+
 ---
 
 ## Start Here
