@@ -61,3 +61,28 @@ This approach ensures solar **adds equity** instead of becoming a liability.
 For a deeper explanation of how UCC-1 liens affect Florida real estate and how Clear-Title Solar™ avoids them, visit:
 
 👉 [https://quiqnest.com/ucc-1-liens-florida](https://quiqnest.com/ucc-1-liens-florida)
+---
+
+## Florida First, Built to Scale Nationally
+
+QuiqNest is launching in **Florida**, where real estate transactions are especially sensitive to title clarity, lien priority, and closing certainty.
+
+Florida’s market conditions make UCC-1 liens particularly problematic due to:
+
+* High transaction volume
+* Strong refinance activity
+* Strict lender and title company scrutiny
+* Increased risk of delayed or failed closings when UCC-1 filings are present
+
+For this reason, **UCC-1 liens are incompatible with the QuiqNest standard**.
+
+Clear-Title Solar™ was designed to solve this problem at the root by ensuring solar:
+
+* Never interferes with title
+* Never competes with the primary mortgage
+* Never creates closing risk
+* Always preserves resale and refinance flexibility
+
+While QuiqNest is launching in Florida, the Clear-Title Solar™ standard and BrightNest Mortgage™ platform are **designed to scale nationwide**, adapting to state-specific rules while preserving one core principle:
+
+> Solar should behave like real property — not consumer debt.
